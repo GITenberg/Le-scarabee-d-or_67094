@@ -23,6 +23,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Charles_Baudelaire
     - https://en.wikipedia.org/wiki/Charles_Baudelaire
+covers:
+- cover_type: archival
+  image_path: 67094-h/images/scarabee_cover.jpg
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67094#Le-scarabee-d-or
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67094'
